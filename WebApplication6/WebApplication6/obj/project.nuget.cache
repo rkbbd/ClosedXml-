@@ -1,23 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YzDvISDL4k5Duy/bZiw1nfLcT9ASDnYyHUnk/C5ZTFKTlIk2cNDXPIxs4NzhcHfGZevDlbzmAAwl+Gp5mkWbgQ==",
+  "dgSpecHash": "oEirO5wSoRAhw+wKVCtDCS05e8R8kSCW78z5vfs4XsxJXLc7oLhDKSBNZwse4kyVNVm/WbhoMlKi5l6uiYeCow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\WebApplication6\\WebApplication6\\WebApplication6.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\USER\\.nuget\\packages\\closedxml\\0.96.0\\closedxml.0.96.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.5\\swashbuckle.aspnetcore.6.1.5.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.5\\swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.5\\swashbuckle.aspnetcore.swaggergen.6.1.5.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.5\\swashbuckle.aspnetcore.swaggerui.6.1.5.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\ClosedXml-\\WebApplication6\\WebApplication6\\WebApplication6.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

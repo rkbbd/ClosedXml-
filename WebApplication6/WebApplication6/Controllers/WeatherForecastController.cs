@@ -20,7 +20,7 @@ namespace WebApplication6.Controllers
             _logger = logger;
         }
 
-        [HttpGet(Name = "DownloadExcel")]  //<a href="https://localhost:7135/WeatherForecast"></a>
+        [HttpGet(Name = "DownloadExcel")]  //<a href="https://localhost:7135/api/WeatherForecast"></a>
         public ActionResult DownloadExcel()
         {
             var wbCorgiBabiesTemplate = new XLWorkbook();
